@@ -13,7 +13,7 @@ import android.widget.*;
 
 public class Sample2 extends AppCompatActivity {
 
-    //test to push
+    //test to push2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
